@@ -1,9 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Aaron! <br/><a href="https://github.com/athompson733" <a href="https://www.linkedin.com/in/aaronthompsonart/">Cybersecurity Professional</a>
 
-<!--
-**AThompson733/AThompson733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Security</b>
+  -
+- <b>Network Security</b>
+  -
+- <b>Cloud Security</b>
+  -
+- <b>Linux</b>
+  - 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
